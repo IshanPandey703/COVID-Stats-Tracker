@@ -2,7 +2,7 @@
 
 ## Name : Ishan Pandey
 
-## Link : https://ishanpandey703.github.io/Portfolio/
+## Link : https://ishanpandey703.github.io/COVID-Stats-Tracker/
 
 ## Milestones Achieved :
 
@@ -11,6 +11,7 @@
 - Fetched COVID data of any country/state searched by user
 - ADDITIONAL MILESTONE
   - Alert accroding to ratio: (change in confirmed cases/active cases) in searched region
+  - Responsive
 
 ## Tech Stack :
 
